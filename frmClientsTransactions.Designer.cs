@@ -816,9 +816,9 @@
             this.label17.ForeColor = System.Drawing.Color.White;
             this.label17.Location = new System.Drawing.Point(37, 121);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(211, 21);
+            this.label17.Size = new System.Drawing.Size(170, 21);
             this.label17.TabIndex = 11;
-            this.label17.Text = "Search By Account Number";
+            this.label17.Text = "Search By User Name";
             // 
             // frmClientsTransactions
             // 

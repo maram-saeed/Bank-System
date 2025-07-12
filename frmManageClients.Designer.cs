@@ -203,9 +203,9 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(39, 94);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(170, 21);
+            this.label1.Size = new System.Drawing.Size(211, 21);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Search By User Name";
+            this.label1.Text = "Search By Account Number";
             // 
             // tpAddNewClient
             // 

@@ -178,5 +178,11 @@ namespace Bank_System
         {
             lblDate.Text = clsDate.DateToString(clsDate.GetSystemDate());
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            linkLabel1.LinkVisited = true;
+            System.Diagnostics.Process.Start("https://www.linkedin.com/in/maram-saeed/");
+        }
     }
 }
