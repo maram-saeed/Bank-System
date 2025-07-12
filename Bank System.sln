@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankSystemPresentationLayer", "BankSystemPresentationLayer.csproj", "{7F08E353-A558-4B30-93DA-91B564935C5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankBusinessLayer", "..\BankBusinessLayer\BankBusinessLayer.csproj", "{11FA7C85-FCEA-4573-8293-762F1CFDD347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankDataAccessLayer", "..\BankDataAccessLayer\BankDataAccessLayer.csproj", "{0967228E-01E6-41B9-878F-C6E48C813921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F08E353-A558-4B30-93DA-91B564935C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F08E353-A558-4B30-93DA-91B564935C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F08E353-A558-4B30-93DA-91B564935C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F08E353-A558-4B30-93DA-91B564935C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11FA7C85-FCEA-4573-8293-762F1CFDD347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FA7C85-FCEA-4573-8293-762F1CFDD347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FA7C85-FCEA-4573-8293-762F1CFDD347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FA7C85-FCEA-4573-8293-762F1CFDD347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0967228E-01E6-41B9-878F-C6E48C813921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0967228E-01E6-41B9-878F-C6E48C813921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0967228E-01E6-41B9-878F-C6E48C813921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0967228E-01E6-41B9-878F-C6E48C813921}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {039F3F91-4930-4232-A10D-1F053B77784D}
+	EndGlobalSection
+EndGlobal

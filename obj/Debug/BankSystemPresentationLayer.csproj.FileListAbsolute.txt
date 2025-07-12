@@ -1,0 +1,21 @@
+E:\c# projects\Bank System\bin\Debug\Bank System.exe.config
+E:\c# projects\Bank System\bin\Debug\Bank System.exe
+E:\c# projects\Bank System\bin\Debug\Bank System.pdb
+E:\c# projects\Bank System\bin\Debug\Guna.UI2.dll
+E:\c# projects\Bank System\obj\Debug\BankSystemPresentationLayer.csproj.AssemblyReference.cache
+E:\c# projects\Bank System\obj\Debug\Bank_System.Properties.Resources.resources
+E:\c# projects\Bank System\obj\Debug\BankSystemPresentationLayer.csproj.GenerateResource.cache
+E:\c# projects\Bank System\obj\Debug\BankSystemPresentationLayer.csproj.CoreCompileInputs.cache
+E:\c# projects\Bank System\obj\Debug\BankSyst.5F352D53.Up2Date
+E:\c# projects\Bank System\obj\Debug\Bank System.exe
+E:\c# projects\Bank System\obj\Debug\Bank System.pdb
+E:\c# projects\Bank System\obj\Debug\Bank_System.frmHome.resources
+E:\c# projects\Bank System\obj\Debug\Bank_System.frmLogin.resources
+E:\c# projects\Bank System\bin\Debug\BankBusinessLayer.dll
+E:\c# projects\Bank System\bin\Debug\BankDataAccessLayer.dll
+E:\c# projects\Bank System\bin\Debug\BankBusinessLayer.pdb
+E:\c# projects\Bank System\bin\Debug\BankDataAccessLayer.pdb
+E:\c# projects\Bank System\obj\Debug\Bank_System.frmManageClients.resources
+E:\c# projects\Bank System\obj\Debug\Bank_System.frmManageUsers.resources
+E:\c# projects\Bank System\obj\Debug\Bank_System.frmClientsTransactions.resources
+E:\c# projects\Bank System\obj\Debug\Bank_System.frmCurrencyExchange.resources

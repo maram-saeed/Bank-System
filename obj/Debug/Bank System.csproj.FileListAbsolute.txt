@@ -1,0 +1,12 @@
+E:\c# projects\Bank System\bin\Debug\Bank System.exe.config
+E:\c# projects\Bank System\bin\Debug\Bank System.exe
+E:\c# projects\Bank System\bin\Debug\Bank System.pdb
+E:\c# projects\Bank System\bin\Debug\Guna.UI2.dll
+E:\c# projects\Bank System\obj\Debug\Bank System.csproj.AssemblyReference.cache
+E:\c# projects\Bank System\obj\Debug\Bank_System.Form1.resources
+E:\c# projects\Bank System\obj\Debug\Bank_System.Properties.Resources.resources
+E:\c# projects\Bank System\obj\Debug\Bank System.csproj.GenerateResource.cache
+E:\c# projects\Bank System\obj\Debug\Bank System.csproj.CoreCompileInputs.cache
+E:\c# projects\Bank System\obj\Debug\Bank Sys.86235B94.Up2Date
+E:\c# projects\Bank System\obj\Debug\Bank System.exe
+E:\c# projects\Bank System\obj\Debug\Bank System.pdb
