@@ -166,9 +166,12 @@ namespace Bank_System
 
         private void pbLogout_Click(object sender, EventArgs e)
         {
-            Application.Exit();
-            frmLogin login = new frmLogin();
-            login.ShowDialog();
+            this.Hide();
+
+            frmLogin loginForm = new frmLogin();
+            loginForm.ShowDialog();
+
+            this.Close();
         }
 
         private void timer1_Tick(object sender, EventArgs e)
