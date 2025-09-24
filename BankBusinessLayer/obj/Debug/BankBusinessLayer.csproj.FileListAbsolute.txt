@@ -1,0 +1,9 @@
+E:\c# projects\BankBusinessLayer\bin\Debug\BankBusinessLayer.dll
+E:\c# projects\BankBusinessLayer\bin\Debug\BankBusinessLayer.pdb
+E:\c# projects\BankBusinessLayer\bin\Debug\BankDataAccessLayer.dll
+E:\c# projects\BankBusinessLayer\bin\Debug\BankDataAccessLayer.pdb
+E:\c# projects\BankBusinessLayer\obj\Debug\BankBusinessLayer.csproj.AssemblyReference.cache
+E:\c# projects\BankBusinessLayer\obj\Debug\BankBusinessLayer.csproj.CoreCompileInputs.cache
+E:\c# projects\BankBusinessLayer\obj\Debug\BankBusi.6BD26524.Up2Date
+E:\c# projects\BankBusinessLayer\obj\Debug\BankBusinessLayer.dll
+E:\c# projects\BankBusinessLayer\obj\Debug\BankBusinessLayer.pdb

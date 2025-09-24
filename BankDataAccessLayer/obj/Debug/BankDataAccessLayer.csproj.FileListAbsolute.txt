@@ -1,0 +1,6 @@
+E:\c# projects\BankDataAccessLayer\bin\Debug\BankDataAccessLayer.dll
+E:\c# projects\BankDataAccessLayer\bin\Debug\BankDataAccessLayer.pdb
+E:\c# projects\BankDataAccessLayer\obj\Debug\BankDataAccessLayer.csproj.AssemblyReference.cache
+E:\c# projects\BankDataAccessLayer\obj\Debug\BankDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\c# projects\BankDataAccessLayer\obj\Debug\BankDataAccessLayer.dll
+E:\c# projects\BankDataAccessLayer\obj\Debug\BankDataAccessLayer.pdb
